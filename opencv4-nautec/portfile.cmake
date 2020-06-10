@@ -8,7 +8,7 @@ endif()
 
 include(vcpkg_common_functions)
 
-set(OPENCV_VERSION "4.1.1")
+set(OPENCV_VERSION "4.2.0")
 
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
